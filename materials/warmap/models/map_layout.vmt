@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "warmap/models/map_layout"
+
+	$model 1
+}

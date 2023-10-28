@@ -1,0 +1,2780 @@
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 846 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (842864 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3836 texinfos to 2276
+Reduced 106 texdatas to 99 (2484 bytes to 2158)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1390 portalclusters
+2961 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 18592 visible clusters (1.02%)
+Total clusters visible: 1828842
+Average clusters visible: 1315
+Building PAS...
+Average clusters audible: 1386
+visdatasize:489897  compressed from 489280
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 846 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (842864 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3836 texinfos to 2276
+Reduced 106 texdatas to 99 (2484 bytes to 2158)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1390 portalclusters
+2961 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 18592 visible clusters (1.02%)
+Total clusters visible: 1828842
+Average clusters visible: 1315
+Building PAS...
+Average clusters audible: 1386
+visdatasize:489897  compressed from 489280
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+PREP OK
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10129 faces
+3 degenerate faces
+22696276 square feet [3268263680.00 square inches]
+327 Displacements
+8495729 Square Feet [1223384960.00 Square Inches]
+10126 patches before subdivision
+151292 patches after subdivision
+179 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 22321554, max 1198
+transfer lists: 170.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(203058, 205276, 90161)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29568, 31585, 14606)
+Build Patch/Sample Hash Table(s).....Done<0.2969 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  41/4096         1968/196608   ( 1.0%) 
+brushes               2214/16384       26568/196608   (13.5%) 
+brushsides           26628/163840     213024/1310720  (16.3%) 
+planes               28976/65536      579520/1310720  (44.2%) 
+vertexes             16719/65536      200628/786432   (25.5%) 
+nodes                 7471/65536      239072/2097152  (11.4%) 
+texinfos              2276/12288      163872/884736   (18.5%) 
+texdata                 99/2048         3168/65536    ( 4.8%) 
+dispinfos              327/0           57552/0        ( 0.0%) 
+disp_verts           24303/0          486060/0        ( 0.0%) 
+disp_tris            38112/0           76224/0        ( 0.0%) 
+disp_lmsamples     4340964/0         4340964/0        ( 0.0%) 
+faces                10129/65536      567224/3670016  (15.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6757/65536      378392/3670016  (10.3%) 
+leaves                7513/65536      240416/2097152  (11.5%) 
+leaffaces            11739/65536       23478/131072   (17.9%) 
+leafbrushes           9026/65536       18052/131072   (13.8%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges            72993/512000     291972/2048000  (14.3%) 
+edges                43742/256000     174968/1024000  (17.1%) 
+LDR worldlights        179/8192        15752/720896   ( 2.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            408/32768        4080/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6309/65536       12618/131072   ( 9.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]    19491916/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      489897/16777216 ( 2.9%) 
+entdata               [variable]      113666/393216   (28.9%) 
+LDR ambient table     7513/65536       30052/262144   (11.5%) 
+HDR ambient table     7513/65536       30052/262144   (11.5%) 
+LDR leaf ambient     21574/65536      604072/1835008  (32.9%) 
+HDR leaf ambient      7513/65536      210364/1835008  (11.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9624     ( 0.0%) 
+pakfile               [variable]       51496/0        ( 0.0%) 
+physics               [variable]      842864/4194304  (20.1%) 
+physics terrain       [variable]      105211/1048576  (10.0%) 
+
+Level flags = 0
+
+Total triangle count: 25814
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 minutes, 21 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 846 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/train_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/train_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (842864 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3836 texinfos to 2276
+Reduced 106 texdatas to 99 (2484 bytes to 2158)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1390 portalclusters
+2961 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 18592 visible clusters (1.02%)
+Total clusters visible: 1828842
+Average clusters visible: 1315
+Building PAS...
+Average clusters audible: 1386
+visdatasize:489897  compressed from 489280
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+PREP OK
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10129 faces
+3 degenerate faces
+22696276 square feet [3268263680.00 square inches]
+327 Displacements
+8495729 Square Feet [1223384960.00 Square Inches]
+10126 patches before subdivision
+151292 patches after subdivision
+179 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 22321554, max 1198
+transfer lists: 170.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(465002, 488269, 307520)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(38134, 40789, 20766)
+Build Patch/Sample Hash Table(s).....Done<0.2843 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  41/4096         1968/196608   ( 1.0%) 
+brushes               2214/16384       26568/196608   (13.5%) 
+brushsides           26628/163840     213024/1310720  (16.3%) 
+planes               28976/65536      579520/1310720  (44.2%) 
+vertexes             16719/65536      200628/786432   (25.5%) 
+nodes                 7471/65536      239072/2097152  (11.4%) 
+texinfos              2276/12288      163872/884736   (18.5%) 
+texdata                 99/2048         3168/65536    ( 4.8%) 
+dispinfos              327/0           57552/0        ( 0.0%) 
+disp_verts           24303/0          486060/0        ( 0.0%) 
+disp_tris            38112/0           76224/0        ( 0.0%) 
+disp_lmsamples     4340964/0         4340964/0        ( 0.0%) 
+faces                10129/65536      567224/3670016  (15.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6757/65536      378392/3670016  (10.3%) 
+leaves                7513/65536      240416/2097152  (11.5%) 
+leaffaces            11739/65536       23478/131072   (17.9%) 
+leafbrushes           9026/65536       18052/131072   (13.8%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges            72993/512000     291972/2048000  (14.3%) 
+edges                43742/256000     174968/1024000  (17.1%) 
+LDR worldlights        179/8192        15752/720896   ( 2.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            408/32768        4080/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6309/65536       12618/131072   ( 9.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]    19491916/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      489897/16777216 ( 2.9%) 
+entdata               [variable]      113964/393216   (29.0%) 
+LDR ambient table     7513/65536       30052/262144   (11.5%) 
+HDR ambient table     7513/65536       30052/262144   (11.5%) 
+LDR leaf ambient     31578/65536      884184/1835008  (48.2%) 
+HDR leaf ambient      7513/65536      210364/1835008  (11.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9624     ( 0.0%) 
+pakfile               [variable]      150632/0        ( 0.0%) 
+physics               [variable]      842864/4194304  (20.1%) 
+physics terrain       [variable]      105211/1048576  (10.0%) 
+
+Level flags = 0
+
+Total triangle count: 25814
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 minutes, 39 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 842 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/train_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/train_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (842864 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3832 texinfos to 2274
+Reduced 105 texdatas to 98 (2458 bytes to 2132)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1390 portalclusters
+2961 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 18592 visible clusters (1.02%)
+Total clusters visible: 1828842
+Average clusters visible: 1315
+Building PAS...
+Average clusters audible: 1386
+visdatasize:489897  compressed from 489280
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+PREP OK
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10126 faces
+3 degenerate faces
+22696262 square feet [3268261632.00 square inches]
+327 Displacements
+8495729 Square Feet [1223384960.00 Square Inches]
+10123 patches before subdivision
+151285 patches after subdivision
+179 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 22312484, max 1197
+transfer lists: 170.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(464957, 488219, 307484)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(38127, 40782, 20762)
+Build Patch/Sample Hash Table(s).....Done<0.2802 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  41/4096         1968/196608   ( 1.0%) 
+brushes               2211/16384       26532/196608   (13.5%) 
+brushsides           26610/163840     212880/1310720  (16.2%) 
+planes               28970/65536      579400/1310720  (44.2%) 
+vertexes             16711/65536      200532/786432   (25.5%) 
+nodes                 7471/65536      239072/2097152  (11.4%) 
+texinfos              2274/12288      163728/884736   (18.5%) 
+texdata                 98/2048         3136/65536    ( 4.8%) 
+dispinfos              327/0           57552/0        ( 0.0%) 
+disp_verts           24303/0          486060/0        ( 0.0%) 
+disp_tris            38112/0           76224/0        ( 0.0%) 
+disp_lmsamples     4340964/0         4340964/0        ( 0.0%) 
+faces                10126/65536      567056/3670016  (15.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6754/65536      378224/3670016  (10.3%) 
+leaves                7513/65536      240416/2097152  (11.5%) 
+leaffaces            11736/65536       23472/131072   (17.9%) 
+leafbrushes           9026/65536       18052/131072   (13.8%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges            72961/512000     291844/2048000  (14.3%) 
+edges                43719/256000     174876/1024000  (17.1%) 
+LDR worldlights        179/8192        15752/720896   ( 2.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            404/32768        4040/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6258/65536       12516/131072   ( 9.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]    19491512/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      489897/16777216 ( 2.9%) 
+entdata               [variable]      113684/393216   (28.9%) 
+LDR ambient table     7513/65536       30052/262144   (11.5%) 
+HDR ambient table     7513/65536       30052/262144   (11.5%) 
+LDR leaf ambient     31578/65536      884184/1835008  (48.2%) 
+HDR leaf ambient      7513/65536      210364/1835008  (11.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9624     ( 0.0%) 
+pakfile               [variable]      150632/0        ( 0.0%) 
+physics               [variable]      842864/4194304  (20.1%) 
+physics terrain       [variable]      105211/1048576  (10.0%) 
+
+Level flags = 0
+
+Total triangle count: 25800
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 minutes, 45 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 842 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (842864 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3832 texinfos to 2274
+Reduced 105 texdatas to 98 (2458 bytes to 2132)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1390 portalclusters
+2961 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 18592 visible clusters (1.02%)
+Total clusters visible: 1828842
+Average clusters visible: 1315
+Building PAS...
+Average clusters audible: 1386
+visdatasize:489897  compressed from 489280
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+PREP OK
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10126 faces
+3 degenerate faces
+22696262 square feet [3268261632.00 square inches]
+327 Displacements
+8495729 Square Feet [1223384960.00 Square Inches]
+10123 patches before subdivision
+151285 patches after subdivision
+179 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 22312484, max 1197
+transfer lists: 170.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(378452, 409914, 242031)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(38325, 40880, 20358)
+Build Patch/Sample Hash Table(s).....Done<0.3200 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  41/4096         1968/196608   ( 1.0%) 
+brushes               2211/16384       26532/196608   (13.5%) 
+brushsides           26610/163840     212880/1310720  (16.2%) 
+planes               28970/65536      579400/1310720  (44.2%) 
+vertexes             16711/65536      200532/786432   (25.5%) 
+nodes                 7471/65536      239072/2097152  (11.4%) 
+texinfos              2274/12288      163728/884736   (18.5%) 
+texdata                 98/2048         3136/65536    ( 4.8%) 
+dispinfos              327/0           57552/0        ( 0.0%) 
+disp_verts           24303/0          486060/0        ( 0.0%) 
+disp_tris            38112/0           76224/0        ( 0.0%) 
+disp_lmsamples     4340964/0         4340964/0        ( 0.0%) 
+faces                10126/65536      567056/3670016  (15.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6754/65536      378224/3670016  (10.3%) 
+leaves                7513/65536      240416/2097152  (11.5%) 
+leaffaces            11736/65536       23472/131072   (17.9%) 
+leafbrushes           9026/65536       18052/131072   (13.8%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges            72961/512000     291844/2048000  (14.3%) 
+edges                43719/256000     174876/1024000  (17.1%) 
+LDR worldlights        179/8192        15752/720896   ( 2.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            404/32768        4040/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6258/65536       12516/131072   ( 9.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]    19491512/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      489897/16777216 ( 2.9%) 
+entdata               [variable]      113742/393216   (28.9%) 
+LDR ambient table     7513/65536       30052/262144   (11.5%) 
+HDR ambient table     7513/65536       30052/262144   (11.5%) 
+LDR leaf ambient     32126/65536      899528/1835008  (49.0%) 
+HDR leaf ambient      7513/65536      210364/1835008  (11.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9624     ( 0.0%) 
+pakfile               [variable]       51496/0        ( 0.0%) 
+physics               [variable]      842864/4194304  (20.1%) 
+physics terrain       [variable]      105211/1048576  (10.0%) 
+
+Level flags = 0
+
+Total triangle count: 25800
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 minutes, 57 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 842 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (898698 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4285 texinfos to 2563
+Reduced 120 texdatas to 111 (2799 bytes to 2431)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1403 portalclusters
+2996 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 19241 visible clusters (1.03%)
+Total clusters visible: 1862594
+Average clusters visible: 1327
+Building PAS...
+Average clusters audible: 1399
+visdatasize:500099  compressed from 493856
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 842 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (898683 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4290 texinfos to 2564
+Reduced 120 texdatas to 111 (2805 bytes to 2437)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1403 portalclusters
+2996 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 19241 visible clusters (1.03%)
+Total clusters visible: 1862594
+Average clusters visible: 1327
+Building PAS...
+Average clusters audible: 1399
+visdatasize:500099  compressed from 493856
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 842 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (904923 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4302 texinfos to 2563
+Reduced 120 texdatas to 111 (2805 bytes to 2437)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1398 portalclusters
+2984 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 19002 visible clusters (1.03%)
+Total clusters visible: 1849616
+Average clusters visible: 1323
+Building PAS...
+Average clusters audible: 1394
+visdatasize:495638  compressed from 492096
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+PREP OK
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10651 faces
+3 degenerate faces
+22715370 square feet [3271013120.00 square inches]
+327 Displacements
+8495729 Square Feet [1223384960.00 Square Inches]
+10648 patches before subdivision
+153712 patches after subdivision
+203 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 25281177, max 1334
+transfer lists: 192.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(391857, 424592, 251639)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(39089, 41713, 20909)
+Build Patch/Sample Hash Table(s).....Done<0.2568 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/4096         2640/196608   ( 1.3%) 
+brushes               2379/16384       28548/196608   (14.5%) 
+brushsides           28666/163840     229328/1310720  (17.5%) 
+planes               31196/65536      623920/1310720  (47.6%) 
+vertexes             17853/65536      214236/786432   (27.2%) 
+nodes                 7777/65536      248864/2097152  (11.9%) 
+texinfos              2563/12288      184536/884736   (20.9%) 
+texdata                111/2048         3552/65536    ( 5.4%) 
+dispinfos              327/0           57552/0        ( 0.0%) 
+disp_verts           24303/0          486060/0        ( 0.0%) 
+disp_tris            38112/0           76224/0        ( 0.0%) 
+disp_lmsamples     4340964/0         4340964/0        ( 0.0%) 
+faces                10651/65536      596456/3670016  (16.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             7222/65536      404432/3670016  (11.0%) 
+leaves                7833/65536      250656/2097152  (12.0%) 
+leaffaces            12291/65536       24582/131072   (18.8%) 
+leafbrushes           9387/65536       18774/131072   (14.3%) 
+areas                   12/1024           96/8192     ( 1.2%) 
+surfedges            77228/512000     308912/2048000  (15.1%) 
+edges                46571/256000     186284/1024000  (18.2%) 
+LDR worldlights        203/8192        17864/720896   ( 2.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            391/32768        3910/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6300/65536       12600/131072   ( 9.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]    19564496/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      495638/16777216 ( 3.0%) 
+entdata               [variable]      135014/393216   (34.3%) 
+LDR ambient table     7833/65536       31332/262144   (12.0%) 
+HDR ambient table     7833/65536       31332/262144   (12.0%) 
+LDR leaf ambient     32313/65536      904764/1835008  (49.3%) 
+HDR leaf ambient      7833/65536      219324/1835008  (12.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/10586    ( 0.0%) 
+pakfile               [variable]       51496/0        ( 0.0%) 
+physics               [variable]      904923/4194304  (21.6%) 
+physics terrain       [variable]      105211/1048576  (10.0%) 
+
+Level flags = 0
+
+Total triangle count: 27160
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+6 minutes, 15 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 842 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (960259 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4681 texinfos to 2725
+Reduced 120 texdatas to 111 (2805 bytes to 2437)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+6 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1448 portalclusters
+3154 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 20478 visible clusters (1.03%)
+Total clusters visible: 1983494
+Average clusters visible: 1369
+Building PAS...
+Average clusters audible: 1444
+visdatasize:530613  compressed from 532864
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+1 second elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 842 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (960259 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4681 texinfos to 2725
+Reduced 120 texdatas to 111 (2805 bytes to 2437)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+6 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1448 portalclusters
+3154 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 20478 visible clusters (1.03%)
+Total clusters visible: 1983494
+Average clusters visible: 1369
+Building PAS...
+Average clusters audible: 1444
+visdatasize:530613  compressed from 532864
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+PREP OK
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+10989 faces
+3 degenerate faces
+22721840 square feet [3271944960.00 square inches]
+327 Displacements
+8495436 Square Feet [1223342720.00 Square Inches]
+10986 patches before subdivision
+154880 patches after subdivision
+211 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 26863538, max 1434
+transfer lists: 205.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(395994, 428446, 253463)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(39351, 41906, 20973)
+Build Patch/Sample Hash Table(s).....Done<0.2596 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/4096         2640/196608   ( 1.3%) 
+brushes               2579/16384       30948/196608   (15.7%) 
+brushsides           31161/163840     249288/1310720  (19.0%) 
+planes               32614/65536      652280/1310720  (49.8%) 
+vertexes             18388/65536      220656/786432   (28.1%) 
+nodes                 7863/65536      251616/2097152  (12.0%) 
+texinfos              2725/12288      196200/884736   (22.2%) 
+texdata                111/2048         3552/65536    ( 5.4%) 
+dispinfos              327/0           57552/0        ( 0.0%) 
+disp_verts           24303/0          486060/0        ( 0.0%) 
+disp_tris            38112/0           76224/0        ( 0.0%) 
+disp_lmsamples     4340964/0         4340964/0        ( 0.0%) 
+faces                10989/65536      615384/3670016  (16.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             7534/65536      421904/3670016  (11.5%) 
+leaves                7919/65536      253408/2097152  (12.1%) 
+leaffaces            12640/65536       25280/131072   (19.3%) 
+leafbrushes           9785/65536       19570/131072   (14.9%) 
+areas                   13/1024          104/8192     ( 1.3%) 
+surfedges            79944/512000     319776/2048000  (15.6%) 
+edges                48193/256000     192772/1024000  (18.8%) 
+LDR worldlights        211/8192        18568/720896   ( 2.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            404/32768        4040/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6507/65536       13014/131072   ( 9.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]    19602344/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      530613/16777216 ( 3.2%) 
+entdata               [variable]      141614/393216   (36.0%) 
+LDR ambient table     7919/65536       31676/262144   (12.1%) 
+HDR ambient table     7919/65536       31676/262144   (12.1%) 
+LDR leaf ambient     32673/65536      914844/1835008  (49.9%) 
+HDR leaf ambient      7919/65536      221732/1835008  (12.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/11178    ( 0.0%) 
+pakfile               [variable]       51496/0        ( 0.0%) 
+physics               [variable]      960259/4194304  (22.9%) 
+physics terrain       [variable]      105001/1048576  (10.0%) 
+
+Level flags = 0
+
+Total triangle count: 27950
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+6 minutes, 30 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 844 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (965979 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4740 texinfos to 2749
+Reduced 122 texdatas to 113 (2857 bytes to 2489)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+6 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1464 portalclusters
+3188 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 21394 visible clusters (1.06%)
+Total clusters visible: 2022712
+Average clusters visible: 1381
+Building PAS...
+Average clusters audible: 1460
+visdatasize:541920  compressed from 538752
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 844 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (965979 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4740 texinfos to 2749
+Reduced 122 texdatas to 113 (2857 bytes to 2489)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1464 portalclusters
+3188 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 21394 visible clusters (1.06%)
+Total clusters visible: 2022712
+Average clusters visible: 1381
+Building PAS...
+Average clusters audible: 1460
+visdatasize:541920  compressed from 538752
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+PREP OK
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+11040 faces
+3 degenerate faces
+22731002 square feet [3273264384.00 square inches]
+329 Displacements
+8496334 Square Feet [1223472128.00 Square Inches]
+11037 patches before subdivision
+155991 patches after subdivision
+227 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 27071871, max 1445
+transfer lists: 206.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(401091, 432179, 255067)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(40360, 42582, 21223)
+Build Patch/Sample Hash Table(s).....Done<0.2758 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/4096         2640/196608   ( 1.3%) 
+brushes               2608/16384       31296/196608   (15.9%) 
+brushsides           31462/163840     251696/1310720  (19.2%) 
+planes               32910/65536      658200/1310720  (50.2%) 
+vertexes             18632/65536      223584/786432   (28.4%) 
+nodes                 7857/65536      251424/2097152  (12.0%) 
+texinfos              2749/12288      197928/884736   (22.4%) 
+texdata                113/2048         3616/65536    ( 5.5%) 
+dispinfos              329/0           57904/0        ( 0.0%) 
+disp_verts           24353/0          487060/0        ( 0.0%) 
+disp_tris            38176/0           76352/0        ( 0.0%) 
+disp_lmsamples     4342132/0         4342132/0        ( 0.0%) 
+faces                11040/65536      618240/3670016  (16.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             7570/65536      423920/3670016  (11.6%) 
+leaves                7913/65536      253216/2097152  (12.1%) 
+leaffaces            12728/65536       25456/131072   (19.4%) 
+leafbrushes           8964/65536       17928/131072   (13.7%) 
+areas                   13/1024          104/8192     ( 1.3%) 
+surfedges            80350/512000     321400/2048000  (15.7%) 
+edges                48455/256000     193820/1024000  (18.9%) 
+LDR worldlights        227/8192        19976/720896   ( 2.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            415/32768        4150/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6654/65536       13308/131072   (10.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]    19641556/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      541920/16777216 ( 3.2%) 
+entdata               [variable]      154454/393216   (39.3%) 
+LDR ambient table     7913/65536       31652/262144   (12.1%) 
+HDR ambient table     7913/65536       31652/262144   (12.1%) 
+LDR leaf ambient     32804/65536      918512/1835008  (50.1%) 
+HDR leaf ambient      7913/65536      221564/1835008  (12.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12370    ( 0.0%) 
+pakfile               [variable]       51496/0        ( 0.0%) 
+physics               [variable]      965979/4194304  (23.0%) 
+physics terrain       [variable]      105387/1048576  (10.1%) 
+
+Level flags = 0
+
+Total triangle count: 28109
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+6 minutes, 36 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 852 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (973187 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4777 texinfos to 2776
+Reduced 127 texdatas to 118 (2988 bytes to 2620)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1482 portalclusters
+3250 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 21847 visible clusters (1.06%)
+Total clusters visible: 2068971
+Average clusters visible: 1396
+Building PAS...
+Average clusters audible: 1478
+visdatasize:557194  compressed from 569088
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 852 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (973187 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4777 texinfos to 2776
+Reduced 127 texdatas to 118 (2988 bytes to 2620)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1479 portalclusters
+3238 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 21749 visible clusters (1.06%)
+Total clusters visible: 2060408
+Average clusters visible: 1393
+Building PAS...
+Average clusters audible: 1475
+visdatasize:553096  compressed from 567936
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 852 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (972339 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4776 texinfos to 2776
+Reduced 127 texdatas to 118 (2988 bytes to 2620)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1477 portalclusters
+3235 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 21692 visible clusters (1.06%)
+Total clusters visible: 2054623
+Average clusters visible: 1391
+Building PAS...
+Average clusters audible: 1473
+visdatasize:552303  compressed from 567168
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 858 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1000409 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4919 texinfos to 2831
+Reduced 135 texdatas to 126 (3179 bytes to 2811)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1482 portalclusters
+3242 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 21857 visible clusters (1.06%)
+Total clusters visible: 2068957
+Average clusters visible: 1396
+Building PAS...
+Average clusters audible: 1478
+visdatasize:557144  compressed from 569088
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 858 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (999115 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4899 texinfos to 2832
+Reduced 135 texdatas to 126 (3179 bytes to 2811)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+5 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1482 portalclusters
+3242 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 21857 visible clusters (1.06%)
+Total clusters visible: 2068957
+Average clusters visible: 1396
+Building PAS...
+Average clusters audible: 1478
+visdatasize:557144  compressed from 569088
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+PREP OK
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+11269 faces
+3 degenerate faces
+22741210 square feet [3274734336.00 square inches]
+329 Displacements
+8492644 Square Feet [1222940672.00 Square Inches]
+11266 patches before subdivision
+158048 patches after subdivision
+244 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 27156944, max 1471
+transfer lists: 207.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(408078, 437419, 257657)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(41808, 43651, 21687)
+Build Patch/Sample Hash Table(s).....Done<0.2641 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  59/4096         2832/196608   ( 1.4%) 
+brushes               2721/16384       32652/196608   (16.6%) 
+brushsides           32471/163840     259768/1310720  (19.8%) 
+planes               33566/65536      671320/1310720  (51.2%) 
+vertexes             19146/65536      229752/786432   (29.2%) 
+nodes                 8030/65536      256960/2097152  (12.3%) 
+texinfos              2832/12288      203904/884736   (23.0%) 
+texdata                126/2048         4032/65536    ( 6.2%) 
+dispinfos              329/0           57904/0        ( 0.0%) 
+disp_verts           24353/0          487060/0        ( 0.0%) 
+disp_tris            38176/0           76352/0        ( 0.0%) 
+disp_lmsamples     4342132/0         4342132/0        ( 0.0%) 
+faces                11269/65536      631064/3670016  (17.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             7797/65536      436632/3670016  (11.9%) 
+leaves                8090/65536      258880/2097152  (12.3%) 
+leaffaces            12977/65536       25954/131072   (19.8%) 
+leafbrushes           9187/65536       18374/131072   (14.0%) 
+areas                   15/1024          120/8192     ( 1.5%) 
+surfedges            82074/512000     328296/2048000  (16.0%) 
+edges                49551/256000     198204/1024000  (19.4%) 
+LDR worldlights        244/8192        21472/720896   ( 3.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            423/32768        4230/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6804/65536       13608/131072   (10.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]    19693776/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      557144/16777216 ( 3.3%) 
+entdata               [variable]      167583/393216   (42.6%) 
+LDR ambient table     8090/65536       32360/262144   (12.3%) 
+HDR ambient table     8090/65536       32360/262144   (12.3%) 
+LDR leaf ambient     33219/65536      930132/1835008  (50.7%) 
+HDR leaf ambient      8090/65536      226520/1835008  (12.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/13628    ( 0.0%) 
+pakfile               [variable]       51496/0        ( 0.0%) 
+physics               [variable]      999115/4194304  (23.8%) 
+physics terrain       [variable]      105471/1048576  (10.1%) 
+
+Level flags = 0
+
+Total triangle count: 28540
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+6 minutes, 6 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 868 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1032778 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5181 texinfos to 2945
+Reduced 141 texdatas to 131 (3326 bytes to 2936)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+6 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1532 portalclusters
+3350 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 23925 visible clusters (1.11%)
+Total clusters visible: 2161559
+Average clusters visible: 1410
+Building PAS...
+Average clusters audible: 1508
+visdatasize:589565  compressed from 588288
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+1 second elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 868 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1032778 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5181 texinfos to 2945
+Reduced 141 texdatas to 131 (3326 bytes to 2936)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+6 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1531 portalclusters
+3346 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 23925 visible clusters (1.11%)
+Total clusters visible: 2161530
+Average clusters visible: 1411
+Building PAS...
+Average clusters audible: 1509
+visdatasize:589437  compressed from 587904
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+PREP OK
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+11516 faces
+3 degenerate faces
+22782230 square feet [3280641024.00 square inches]
+329 Displacements
+8492644 Square Feet [1222940672.00 Square Inches]
+11513 patches before subdivision
+163193 patches after subdivision
+292 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 27612871, max 1471
+transfer lists: 210.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(419289, 449959, 266186)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(43552, 45467, 22746)
+Build Patch/Sample Hash Table(s).....Done<0.5026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  69/4096         3312/196608   ( 1.7%) 
+brushes               2841/16384       34092/196608   (17.3%) 
+brushsides           33320/163840     266560/1310720  (20.3%) 
+planes               34114/65536      682280/1310720  (52.1%) 
+vertexes             19915/65536      238980/786432   (30.4%) 
+nodes                 8206/65536      262592/2097152  (12.5%) 
+texinfos              2945/12288      212040/884736   (24.0%) 
+texdata                131/2048         4192/65536    ( 6.4%) 
+dispinfos              329/0           57904/0        ( 0.0%) 
+disp_verts           24353/0          487060/0        ( 0.0%) 
+disp_tris            38176/0           76352/0        ( 0.0%) 
+disp_lmsamples     4342132/0         4342132/0        ( 0.0%) 
+faces                11516/65536      644896/3670016  (17.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             7959/65536      445704/3670016  (12.1%) 
+leaves                8276/65536      264832/2097152  (12.6%) 
+leaffaces            13263/65536       26526/131072   (20.2%) 
+leafbrushes           9497/65536       18994/131072   (14.5%) 
+areas                   17/1024          136/8192     ( 1.7%) 
+surfedges            83834/512000     335336/2048000  (16.4%) 
+edges                50577/256000     202308/1024000  (19.8%) 
+LDR worldlights        292/8192        25696/720896   ( 3.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            456/32768        4560/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7314/65536       14628/131072   (11.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]    19896808/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      589437/16777216 ( 3.5%) 
+entdata               [variable]      192320/393216   (48.9%) 
+LDR ambient table     8276/65536       33104/262144   (12.6%) 
+HDR ambient table     8276/65536       33104/262144   (12.6%) 
+LDR leaf ambient     33821/65536      946988/1835008  (51.6%) 
+HDR leaf ambient      8276/65536      231728/1835008  (12.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15882    ( 0.0%) 
+pakfile               [variable]       51496/0        ( 0.0%) 
+physics               [variable]     1032778/4194304  (24.6%) 
+physics terrain       [variable]      105541/1048576  (10.1%) 
+
+Level flags = 0
+
+Total triangle count: 29170
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+6 minutes, 45 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 958 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (5) (1061828 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5376 texinfos to 3052
+Reduced 147 texdatas to 136 (3491 bytes to 3052)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+9 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1598 portalclusters
+3508 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 23336 visible clusters (1.00%)
+Total clusters visible: 2340802
+Average clusters visible: 1464
+Building PAS...
+Average clusters audible: 1574
+visdatasize:639793  compressed from 639200
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+1 second elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 958 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (1)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (9) (1070588 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5376 texinfos to 3052
+Reduced 147 texdatas to 136 (3491 bytes to 3052)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+13 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1598 portalclusters
+3508 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 23336 visible clusters (1.00%)
+Total clusters visible: 2340802
+Average clusters visible: 1464
+Building PAS...
+Average clusters audible: 1574
+visdatasize:639793  compressed from 639200
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+1 second elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 958 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (8) (1072590 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5396 texinfos to 3062
+Reduced 147 texdatas to 136 (3491 bytes to 3052)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+13 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1598 portalclusters
+3508 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 23336 visible clusters (1.00%)
+Total clusters visible: 2340802
+Average clusters visible: 1464
+Building PAS...
+Average clusters audible: 1574
+visdatasize:639793  compressed from 639200
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+PREP OK
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+11828 faces
+5 degenerate faces
+51880604 square feet [7470807040.00 square inches]
+329 Displacements
+8492644 Square Feet [1222940672.00 Square Inches]
+11823 patches before subdivision
+167267 patches after subdivision
+323 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 28386156, max 1498
+transfer lists: 216.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(429027, 464453, 277230)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(44848, 47617, 24344)
+Build Patch/Sample Hash Table(s).....Done<0.6066 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  74/4096         3552/196608   ( 1.8%) 
+brushes               2948/16384       35376/196608   (18.0%) 
+brushsides           34377/163840     275016/1310720  (21.0%) 
+planes               35132/65536      702640/1310720  (53.6%) 
+vertexes             20637/65536      247644/786432   (31.5%) 
+nodes                 8567/65536      274144/2097152  (13.1%) 
+texinfos              3062/12288      220464/884736   (24.9%) 
+texdata                136/2048         4352/65536    ( 6.6%) 
+dispinfos              329/0           57904/0        ( 0.0%) 
+disp_verts           24353/0          487060/0        ( 0.0%) 
+disp_tris            38176/0           76352/0        ( 0.0%) 
+disp_lmsamples     4342132/0         4342132/0        ( 0.0%) 
+faces                11828/65536      662368/3670016  (18.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             8225/65536      460600/3670016  (12.6%) 
+leaves                8642/65536      276544/2097152  (13.2%) 
+leaffaces            13645/65536       27290/131072   (20.8%) 
+leafbrushes           9945/65536       19890/131072   (15.2%) 
+areas                   17/1024          136/8192     ( 1.7%) 
+surfedges            86313/512000     345252/2048000  (16.9%) 
+edges                52117/256000     208468/1024000  (20.4%) 
+LDR worldlights        323/8192        28424/720896   ( 3.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            457/32768        4570/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7332/65536       14664/131072   (11.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]    20000084/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      639793/16777216 ( 3.8%) 
+entdata               [variable]      211786/393216   (53.9%) 
+LDR ambient table     8642/65536       34568/262144   (13.2%) 
+HDR ambient table     8642/65536       34568/262144   (13.2%) 
+LDR leaf ambient     35697/65536      999516/1835008  (54.5%) 
+HDR leaf ambient      8642/65536      241976/1835008  (13.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/16262    ( 0.0%) 
+pakfile               [variable]       51826/0        ( 0.0%) 
+physics               [variable]     1072590/4194304  (25.6%) 
+physics terrain       [variable]      105513/1048576  (10.1%) 
+
+Level flags = 0
+
+Total triangle count: 29978
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+6 minutes, 49 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 980 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (8) (1074396 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5419 texinfos to 3077
+Reduced 146 texdatas to 135 (3464 bytes to 3025)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+13 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1598 portalclusters
+3508 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 23336 visible clusters (1.00%)
+Total clusters visible: 2340802
+Average clusters visible: 1464
+Building PAS...
+Average clusters audible: 1574
+visdatasize:639793  compressed from 639200
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+1 second elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 996 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (8) (1085885 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5506 texinfos to 3120
+Reduced 151 texdatas to 140 (3593 bytes to 3154)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+13 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1622 portalclusters
+3558 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 23538 visible clusters (0.97%)
+Total clusters visible: 2417176
+Average clusters visible: 1490
+Building PAS...
+Average clusters audible: 1598
+visdatasize:659231  compressed from 674752
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+1 second elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 996 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (9) (1085885 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5506 texinfos to 3120
+Reduced 151 texdatas to 140 (3593 bytes to 3154)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+13 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1622 portalclusters
+3558 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 23538 visible clusters (0.97%)
+Total clusters visible: 2417176
+Average clusters visible: 1490
+Building PAS...
+Average clusters audible: 1598
+visdatasize:659231  compressed from 674752
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+PREP OK
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+11943 faces
+5 degenerate faces
+52134860 square feet [7507419648.00 square inches]
+329 Displacements
+8492644 Square Feet [1222940672.00 Square Inches]
+11938 patches before subdivision
+168034 patches after subdivision
+335 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 28587531, max 1513
+transfer lists: 218.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(431754, 466537, 278321)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(45407, 48020, 24525)
+Build Patch/Sample Hash Table(s).....Done<0.5840 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  83/4096         3984/196608   ( 2.0%) 
+brushes               2994/16384       35928/196608   (18.3%) 
+brushsides           34669/163840     277352/1310720  (21.2%) 
+planes               35352/65536      707040/1310720  (53.9%) 
+vertexes             20955/65536      251460/786432   (32.0%) 
+nodes                 8725/65536      279200/2097152  (13.3%) 
+texinfos              3120/12288      224640/884736   (25.4%) 
+texdata                140/2048         4480/65536    ( 6.8%) 
+dispinfos              329/0           57904/0        ( 0.0%) 
+disp_verts           24353/0          487060/0        ( 0.0%) 
+disp_tris            38176/0           76352/0        ( 0.0%) 
+disp_lmsamples     4342132/0         4342132/0        ( 0.0%) 
+faces                11943/65536      668808/3670016  (18.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             8310/65536      465360/3670016  (12.7%) 
+leaves                8809/65536      281888/2097152  (13.4%) 
+leaffaces            13790/65536       27580/131072   (21.0%) 
+leafbrushes          10596/65536       21192/131072   (16.2%) 
+areas                   17/1024          136/8192     ( 1.7%) 
+surfedges            87126/512000     348504/2048000  (17.0%) 
+edges                52604/256000     210416/1024000  (20.5%) 
+LDR worldlights        335/8192        29480/720896   ( 4.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            468/32768        4680/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7401/65536       14802/131072   (11.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]    20044256/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      659231/16777216 ( 3.9%) 
+entdata               [variable]      219344/393216   (55.8%) 
+LDR ambient table     8809/65536       35236/262144   (13.4%) 
+HDR ambient table     8809/65536       35236/262144   (13.4%) 
+LDR leaf ambient     36326/65536     1017128/1835008  (55.4%) 
+HDR leaf ambient      8809/65536      246652/1835008  (13.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18410    ( 0.0%) 
+pakfile               [variable]       51826/0        ( 0.0%) 
+physics               [variable]     1085885/4194304  (25.9%) 
+physics terrain       [variable]      105569/1048576  (10.1%) 
+
+Level flags = 0
+
+Total triangle count: 30228
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+6 minutes, 40 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 996 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (9) (1085933 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5491 texinfos to 3120
+Reduced 151 texdatas to 140 (3593 bytes to 3154)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+14 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1593 portalclusters
+3487 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 22438 visible clusters (0.96%)
+Total clusters visible: 2331829
+Average clusters visible: 1463
+Building PAS...
+Average clusters audible: 1569
+visdatasize:638030  compressed from 637200
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+PREP OK
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+11944 faces
+5 degenerate faces
+52134852 square feet [7507418624.00 square inches]
+329 Displacements
+8492644 Square Feet [1222940672.00 Square Inches]
+11939 patches before subdivision
+168049 patches after subdivision
+335 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 28624844, max 1516
+transfer lists: 218.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(405260, 431814, 254313)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(44268, 46608, 23689)
+Build Patch/Sample Hash Table(s).....Done<0.7075 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  83/4096         3984/196608   ( 2.0%) 
+brushes               2987/16384       35844/196608   (18.2%) 
+brushsides           34641/163840     277128/1310720  (21.1%) 
+planes               35364/65536      707280/1310720  (54.0%) 
+vertexes             20901/65536      250812/786432   (31.9%) 
+nodes                 8692/65536      278144/2097152  (13.3%) 
+texinfos              3120/12288      224640/884736   (25.4%) 
+texdata                140/2048         4480/65536    ( 6.8%) 
+dispinfos              329/0           57904/0        ( 0.0%) 
+disp_verts           24353/0          487060/0        ( 0.0%) 
+disp_tris            38176/0           76352/0        ( 0.0%) 
+disp_lmsamples     4342132/0         4342132/0        ( 0.0%) 
+faces                11944/65536      668864/3670016  (18.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             8312/65536      465472/3670016  (12.7%) 
+leaves                8776/65536      280832/2097152  (13.4%) 
+leaffaces            13732/65536       27464/131072   (21.0%) 
+leafbrushes          10451/65536       20902/131072   (15.9%) 
+areas                   17/1024          136/8192     ( 1.7%) 
+surfedges            87138/512000     348552/2048000  (17.0%) 
+edges                52656/256000     210624/1024000  (20.6%) 
+LDR worldlights        335/8192        29480/720896   ( 4.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            469/32768        4690/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7425/65536       14850/131072   (11.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]    20045400/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      638030/16777216 ( 3.8%) 
+entdata               [variable]      220454/393216   (56.1%) 
+LDR ambient table     8776/65536       35104/262144   (13.4%) 
+HDR ambient table     8776/65536       35104/262144   (13.4%) 
+LDR leaf ambient     35772/65536     1001616/1835008  (54.6%) 
+HDR leaf ambient      8776/65536      245728/1835008  (13.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18408    ( 0.0%) 
+pakfile               [variable]       51826/0        ( 0.0%) 
+physics               [variable]     1085933/4194304  (25.9%) 
+physics terrain       [variable]      105611/1048576  (10.1%) 
+
+Level flags = 0
+
+Total triangle count: 30231
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+7 minutes, 14 seconds elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 996 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (9) (1088061 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5594 texinfos to 3123
+Reduced 159 texdatas to 140 (4103 bytes to 3635)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+15 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1594 portalclusters
+3487 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 22438 visible clusters (0.96%)
+Total clusters visible: 2331830
+Average clusters visible: 1462
+Building PAS...
+Average clusters audible: 1568
+visdatasize:638079  compressed from 637600
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+1 second elapsed
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.vmf
+ConVarRef gmod_unload_test doesn't point to an existing ConVar
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_warmap_prostir/nature/blendgrassgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 996 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt...Building visibility clusters...
+done (1)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_02_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_02_hdr weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_02_hdr to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (8) (1088061 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5594 texinfos to 3123
+Reduced 159 texdatas to 140 (4103 bytes to 3635)
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+13 seconds elapsed
+
+
+
+2 threads
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+reading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.prt
+1594 portalclusters
+3487 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 575 visible clusters (0.03%)
+Total clusters visible: 2115507
+Average clusters visible: 1327
+Building PAS...
+Average clusters audible: 1549
+visdatasize:626034  compressed from 637600
+writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+6 hours, 36 minutes, 2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+PREP OK
+Loaded alpha texture materials\Models\props_c17\fence_alpha.vtf
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+11950 faces
+5 degenerate faces
+52135072 square feet [7507450368.00 square inches]
+329 Displacements
+8492644 Square Feet [1222940672.00 Square Inches]
+11945 patches before subdivision
+168055 patches after subdivision
+335 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 28625673, max 1517
+transfer lists: 218.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(403193, 429410, 252464)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(44021, 46325, 23483)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7943, 8472, 3940)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1813, 1949, 856)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(396, 435, 181)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(94, 105, 42)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(22, 25, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.7436 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  83/4096         3984/196608   ( 2.0%) 
+brushes               2993/16384       35916/196608   (18.3%) 
+brushsides           34677/163840     277416/1310720  (21.2%) 
+planes               35378/65536      707560/1310720  (54.0%) 
+vertexes             20925/65536      251100/786432   (31.9%) 
+nodes                 8698/65536      278336/2097152  (13.3%) 
+texinfos              3123/12288      224856/884736   (25.4%) 
+texdata                140/2048         4480/65536    ( 6.8%) 
+dispinfos              329/0           57904/0        ( 0.0%) 
+disp_verts           24353/0          487060/0        ( 0.0%) 
+disp_tris            38176/0           76352/0        ( 0.0%) 
+disp_lmsamples     4342132/0         4342132/0        ( 0.0%) 
+faces                11950/65536      669200/3670016  (18.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             8318/65536      465808/3670016  (12.7%) 
+leaves                8782/65536      281024/2097152  (13.4%) 
+leaffaces            13738/65536       27476/131072   (21.0%) 
+leafbrushes          10458/65536       20916/131072   (16.0%) 
+areas                   18/1024          144/8192     ( 1.8%) 
+surfedges            87186/512000     348744/2048000  (17.0%) 
+edges                52692/256000     210768/1024000  (20.6%) 
+LDR worldlights        335/8192        29480/720896   ( 4.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            469/32768        4690/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7425/65536       14850/131072   (11.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]    20045400/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      626034/16777216 ( 3.7%) 
+entdata               [variable]      221112/393216   (56.2%) 
+LDR ambient table     8782/65536       35128/262144   (13.4%) 
+HDR ambient table     8782/65536       35128/262144   (13.4%) 
+LDR leaf ambient     35764/65536     1001392/1835008  (54.6%) 
+HDR leaf ambient      8782/65536      245896/1835008  (13.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18408    ( 0.0%) 
+pakfile               [variable]       81205/0        ( 0.0%) 
+physics               [variable]     1088061/4194304  (25.9%) 
+physics terrain       [variable]      105611/1048576  (10.1%) 
+
+Level flags = 1
+
+Total triangle count: 30243
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+18 minutes, 37 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+PREP OK
+Loaded alpha texture materials\Models\props_c17\fence_alpha.vtf
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+11950 faces
+5 degenerate faces
+52135072 square feet [7507450368.00 square inches]
+329 Displacements
+8492644 Square Feet [1222940672.00 Square Inches]
+11945 patches before subdivision
+168055 patches after subdivision
+335 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 28625673, max 1517
+transfer lists: 218.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(403192, 429410, 252464)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(44021, 46325, 23483)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7943, 8472, 3940)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1813, 1949, 856)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(396, 435, 181)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(94, 105, 42)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(22, 25, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<2.7921 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  83/4096         3984/196608   ( 2.0%) 
+brushes               2993/16384       35916/196608   (18.3%) 
+brushsides           34677/163840     277416/1310720  (21.2%) 
+planes               35378/65536      707560/1310720  (54.0%) 
+vertexes             20925/65536      251100/786432   (31.9%) 
+nodes                 8698/65536      278336/2097152  (13.3%) 
+texinfos              3123/12288      224856/884736   (25.4%) 
+texdata                140/2048         4480/65536    ( 6.8%) 
+dispinfos              329/0           57904/0        ( 0.0%) 
+disp_verts           24353/0          487060/0        ( 0.0%) 
+disp_tris            38176/0           76352/0        ( 0.0%) 
+disp_lmsamples     4342132/0         4342132/0        ( 0.0%) 
+faces                11950/65536      669200/3670016  (18.2%) 
+hdr faces            11950/65536      669200/3670016  (18.2%) 
+origfaces             8318/65536      465808/3670016  (12.7%) 
+leaves                8782/65536      281024/2097152  (13.4%) 
+leaffaces            13738/65536       27476/131072   (21.0%) 
+leafbrushes          10458/65536       20916/131072   (16.0%) 
+areas                   18/1024          144/8192     ( 1.8%) 
+surfedges            87186/512000     348744/2048000  (17.0%) 
+edges                52692/256000     210768/1024000  (20.6%) 
+LDR worldlights        335/8192        29480/720896   ( 4.1%) 
+HDR worldlights        335/8192        29480/720896   ( 4.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            469/32768        4690/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7425/65536       14850/131072   (11.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]    20045400/0        ( 0.0%) 
+HDR lightdata         [variable]    20045400/0        ( 0.0%) 
+visdata               [variable]      626034/16777216 ( 3.7%) 
+entdata               [variable]      221112/393216   (56.2%) 
+LDR ambient table     8782/65536       35128/262144   (13.4%) 
+HDR ambient table     8782/65536       35128/262144   (13.4%) 
+LDR leaf ambient     35764/65536     1001392/1835008  (54.6%) 
+HDR leaf ambient     35764/65536     1001392/1835008  (54.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18408    ( 0.0%) 
+pakfile               [variable]      107113/0        ( 0.0%) 
+physics               [variable]     1088061/4194304  (25.9%) 
+physics terrain       [variable]      105611/1048576  (10.1%) 
+
+Level flags = 3
+
+Total triangle count: 30243
+Writing c:\users\isemenuk27\desktop\decompiled\warmap_prostir\gm_warmap_prostir.bsp
+18 minutes, 40 seconds elapsed

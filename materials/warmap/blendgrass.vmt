@@ -1,0 +1,16 @@
+WorldVertexTransition
+{
+	$basetexture "/warmap/blendgrass"
+	$bumpmap "/warmap/blendgrass_n"
+	$surfaceprop Grass
+
+	$basetexture2 "/warmap/blendmud"
+	$bumpmap2 "/warmap/blendmud_n"
+	$surfaceprop2 Dirt
+
+	$detail "/warmap/noise"
+	$detailblendmode 2
+	$detailscale 0.055
+	$detail2 "/warmap/noise2"
+	$detailscale2 0.055
+}

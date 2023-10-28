@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "warmap/models/sigarets"
+
+	$model 1
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "warmap/models/wallmap_2"
+
+	$model 1
+}
